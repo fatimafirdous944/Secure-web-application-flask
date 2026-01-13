@@ -1,3 +1,7 @@
+## About This Project
+
+This project is built using a Flask login template and has been customized to understand
+secure authentication, session management, and backend security concepts. 
 # Building a Secure Web Application using Python Flask
 
 This project demonstrates the development of a secure web application using Python Flask with user authentication and security best practices.
